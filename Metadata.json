@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 1991,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-list-storsimple-network-interface-information-including-mac/master/Get-StorSimpleInterface.ps1",
+    "DownloadCount": 695,
+    "Id": "Powershell-script-to-list-6483ae4e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 479,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-6-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In many cases we can obtain the IP address of a network interface via one command but get the MAC address from another command. StorSimple 8k series which runs a core version of server 2012 R2 (as of 20 June 2016) is no exception. In this case we can get the IP address informat",
+    "Title": "Powershell script to list StorSimple network interface information including MAC",
+    "UpdatedDate": "2016-6-20T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-list-storsimple-network-interface-information-including-mac",
+    "UserTags": "Powershell, StorSimple, Get StorSimple MAC addresses"
+}
